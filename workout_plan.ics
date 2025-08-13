@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Workout App//Workout Calendar//EN
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250901
+SUMMARY:Day 1 Workout
+DESCRIPTION:Workout for Day 1:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-1-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+DTEND;VALUE=DATE:20250902
+SUMMARY:Day 2 Workout
+DESCRIPTION:Workout for Day 2:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-2-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+DTEND;VALUE=DATE:20250903
+SUMMARY:Day 3 Workout
+DESCRIPTION:Workout for Day 3:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-3-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250904
+DTEND;VALUE=DATE:20250904
+SUMMARY:Day 4 Workout
+DESCRIPTION:Workout for Day 4:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-4-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250905
+SUMMARY:Day 5 Workout
+DESCRIPTION:Workout for Day 5:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-5-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250906
+SUMMARY:Day 6 Workout
+DESCRIPTION:Workout for Day 6:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-6-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250907
+DTEND;VALUE=DATE:20250907
+SUMMARY:Day 7 Workout
+DESCRIPTION:Workout for Day 7:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-7-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250908
+SUMMARY:Day 8 Workout
+DESCRIPTION:Workout for Day 8:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-8-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250909
+DTEND;VALUE=DATE:20250909
+SUMMARY:Day 9 Workout
+DESCRIPTION:Workout for Day 9:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-9-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250910
+DTEND;VALUE=DATE:20250910
+SUMMARY:Day 10 Workout
+DESCRIPTION:Workout for Day 10:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-10-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250911
+DTEND;VALUE=DATE:20250911
+SUMMARY:Day 11 Workout
+DESCRIPTION:Workout for Day 11:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-11-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250912
+DTEND;VALUE=DATE:20250912
+SUMMARY:Day 12 Workout
+DESCRIPTION:Workout for Day 12:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-12-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250913
+SUMMARY:Day 13 Workout
+DESCRIPTION:Workout for Day 13:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-13-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250914
+DTEND;VALUE=DATE:20250914
+SUMMARY:Day 14 Workout
+DESCRIPTION:Workout for Day 14:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-14-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250915
+SUMMARY:Day 15 Workout
+DESCRIPTION:Workout for Day 15:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-15-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250916
+DTEND;VALUE=DATE:20250916
+SUMMARY:Day 16 Workout
+DESCRIPTION:Workout for Day 16:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-16-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250917
+SUMMARY:Day 17 Workout
+DESCRIPTION:Workout for Day 17:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-17-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250918
+DTEND;VALUE=DATE:20250918
+SUMMARY:Day 18 Workout
+DESCRIPTION:Workout for Day 18:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-18-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250919
+SUMMARY:Day 19 Workout
+DESCRIPTION:Workout for Day 19:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-19-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250920
+SUMMARY:Day 20 Workout
+DESCRIPTION:Workout for Day 20:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-20-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250921
+DTEND;VALUE=DATE:20250921
+SUMMARY:Day 21 Workout
+DESCRIPTION:Workout for Day 21:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-21-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250922
+SUMMARY:Day 22 Workout
+DESCRIPTION:Workout for Day 22:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-22-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250923
+SUMMARY:Day 23 Workout
+DESCRIPTION:Workout for Day 23:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-23-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250924
+DTEND;VALUE=DATE:20250924
+SUMMARY:Day 24 Workout
+DESCRIPTION:Workout for Day 24:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-24-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250925
+SUMMARY:Day 25 Workout
+DESCRIPTION:Workout for Day 25:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-25-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250926
+SUMMARY:Day 26 Workout
+DESCRIPTION:Workout for Day 26:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-26-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250927
+SUMMARY:Day 27 Workout
+DESCRIPTION:Workout for Day 27:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-27-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250928
+DTEND;VALUE=DATE:20250928
+SUMMARY:Day 28 Workout
+DESCRIPTION:Workout for Day 28:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-28-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20250929
+SUMMARY:Day 29 Workout
+DESCRIPTION:Workout for Day 29:\n\n1. Side Bends\nHow to: Stand, bend sideways at waist\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Flutter Kicks\nHow to: Lie on back, alternate small leg kicks\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Reverse Crunches\nHow to: Lie on back, lift knees toward chest\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-29-20250813151820
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20250930
+SUMMARY:Day 30 Workout
+DESCRIPTION:Workout for Day 30:\n\n1. Oblique Crunches\nHow to: Lie on side, crunch elbow to hip\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n2. Side Plank\nHow to: Lie on side, lift body up on forearm\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n3. Leg Raises\nHow to: Lie on back, lift straight legs up and down\n- 3 sets of 12 reps\n- Rest 60 seconds\n\n
+UID:workout-day-30-20250813151820
+END:VEVENT
+END:VCALENDAR
